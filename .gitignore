@@ -1,0 +1,8 @@
+
+drf/drf_api_sample/drf_api_sample/__pycache__/
+
+*.sqlite3
+
+drf/drf_api_sample/drfapi/__pycache__/
+
+drf/drf_api_sample/drfapi/migrations/__pycache__/
